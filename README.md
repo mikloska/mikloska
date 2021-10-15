@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miklós Kertész</h1>
+<h3 align="center">Coder, musician and father</h3>
 
 - 🔭 I’m currently working on the ecommerce site for [Sikra Jewelry](https://github.com/mikloska/sikraShop)
 
